@@ -20,17 +20,17 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso que fiz na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Joalmeida2012/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook_IA_VF.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [DALL-E](https://openai.com/index/dall-e-2/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,26 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título de um ebook sobre o tema IA e mercado financeiro, o nicho é inteligência artificial e o subnicho é mercado financeiro, o título deve ser objetivo e curto, com uma temática de finanças, liste 5 opções de títulos                                                        |
+| conteúdo | faça um texto para ebook profissional, com foco em ferramentas de IA para finanças, listando as principais utilidades da inteligência artificial para as finanças e aplicações
+
+(REGRAS)
+>Explique de uma maneira simples porém com linguagem formal do mercado financeiro
+>Deixe o texto enxuto
+>Traga exemplos de aplicações da IA em contextos reais das finanças
+>Sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Dall-E：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| capa | Crie uma imagem para a capa do meu ebook "IA para Investidores: O Futuro das Finanças" com imagem bem profissional, impactante  |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via DALL-E
 
 ## 📚 Materiais
 
@@ -89,4 +95,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Joana Almeida](https://github.com/Joalmeida2012)
